@@ -1,0 +1,7 @@
+# Ignore data files and outputs
+data/
+outputs/
+.vene/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
